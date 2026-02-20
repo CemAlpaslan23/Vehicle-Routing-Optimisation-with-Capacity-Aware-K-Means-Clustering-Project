@@ -1,0 +1,132 @@
+Set parameter Username
+Academic license - for non-commercial use only - expires 2026-05-02
+Gurobi Optimizer version 11.0.3 build v11.0.3rc0 (win64 - Windows 11+.0 (26200.2))
+
+CPU model: 11th Gen Intel(R) Core(TM) i5-11400H @ 2.70GHz, instruction set [SSE2|AVX|AVX2|AVX512]
+Thread count: 6 physical cores, 12 logical processors, using up to 12 threads
+
+Optimize a model with 602 rows, 650 columns and 2856 nonzeros
+Model fingerprint: 0x3f2742ea
+Variable types: 0 continuous, 650 integer (625 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 2e+01]
+  Objective range  [6e-02, 9e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+01]
+Presolve removed 0 rows and 26 columns
+Presolve time: 0.00s
+Presolved: 602 rows, 624 columns, 2856 nonzeros
+Variable types: 0 continuous, 624 integer (600 binary)
+Found heuristic solution: objective 50.4028853
+
+Root relaxation: objective 1.976765e+01, 78 iterations, 0.00 seconds (0.00 work units)
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+     0     0   19.76765    0   48   50.40289   19.76765  60.8%     -    0s
+     0     0   20.97181    0   69   50.40289   20.97181  58.4%     -    0s
+H    0     0                      45.7868012   21.17147  53.8%     -    0s
+     0     0   21.17147    0   48   45.78680   21.17147  53.8%     -    0s
+     0     0   21.21880    0   43   45.78680   21.21880  53.7%     -    0s
+H    0     0                      37.4973073   21.25232  43.3%     -    0s
+     0     0   21.25232    0   61   37.49731   21.25232  43.3%     -    0s
+     0     0   21.28314    0   64   37.49731   21.28314  43.2%     -    0s
+     0     0   21.35928    0   61   37.49731   21.35928  43.0%     -    0s
+     0     0   21.37748    0   64   37.49731   21.37748  43.0%     -    0s
+H    0     0                      36.9275170   21.37748  42.1%     -    0s
+     0     0   21.37748    0   63   36.92752   21.37748  42.1%     -    0s
+H    0     0                      36.2334809   21.40919  40.9%     -    0s
+H    0     0                      33.5627668   21.40919  36.2%     -    0s
+     0     0   21.40919    0   64   33.56277   21.40919  36.2%     -    0s
+     0     0   21.40919    0   49   33.56277   21.40919  36.2%     -    0s
+     0     0   21.40919    0   52   33.56277   21.40919  36.2%     -    0s
+     0     0   21.40919    0   46   33.56277   21.40919  36.2%     -    0s
+     0     0   21.41076    0   50   33.56277   21.41076  36.2%     -    0s
+     0     0   21.41076    0   46   33.56277   21.41076  36.2%     -    0s
+     0     0   21.41076    0   46   33.56277   21.41076  36.2%     -    0s
+     0     2   21.41076    0   46   33.56277   21.41076  36.2%     -    0s
+H   31    41                      23.3047472   21.44865  7.96%  13.1    0s
+*  407   271              27      23.2610197   21.48440  7.64%   8.6    0s
+*  408   271              26      23.2307983   21.48440  7.52%   8.6    0s
+* 1044   674              31      22.9478070   21.62442  5.77%   7.6    0s
+H 1753   952                      22.9126482   21.74829  5.08%   7.6    0s
+* 2339  1121              25      22.3879696   21.75988  2.81%   8.1    0s
+* 2844   943              30      22.3311260   21.81878  2.29%   8.2    1s
+* 2902   881              22      22.1724711   21.82390  1.57%   8.2    1s
+* 3076   712              27      22.1373123   21.86559  1.23%   8.3    1s
+
+Cutting planes:
+  Learned: 12
+  Gomory: 19
+  Cover: 1
+  Implied bound: 5
+  MIR: 19
+  Flow cover: 22
+  Inf proof: 6
+  Zero half: 26
+
+Explored 3420 nodes (28075 simplex iterations) in 1.17 seconds (1.22 work units)
+Thread count was 12 (of 12 available processors)
+
+Solution count 10: 22.1373 22.1725 22.3311 ... 33.5628
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 2.213731231024e+01, best bound 2.213731231024e+01, gap 0.0000%
+
+Model status is:  2
+
+Objective Function value is:  22.13731231024091
+
+X[0,471] 1.000000
+X[93,99] 1.000000
+X[99,425] 1.000000
+X[101,432] 1.000000
+X[103,257] 1.000000
+X[127,0] 1.000000
+X[257,430] 1.000000
+X[338,442] 1.000000
+X[339,682] 1.000000
+X[418,419] 1.000000
+X[419,429] 1.000000
+X[420,418] 1.000000
+X[425,339] 1.000000
+X[429,434] 1.000000
+X[430,445] 1.000000
+X[432,436] 1.000000
+X[434,435] 1.000000
+X[435,93] 1.000000
+X[436,103] 1.000000
+X[440,101] 1.000000
+X[442,440] 1.000000
+X[445,474] 1.000000
+X[471,420] 1.000000
+X[474,127] 1.000000
+X[682,338] 1.000000
+U[93] 7.000000
+U[99] 8.000000
+U[101] 15.000000
+U[103] 18.000000
+U[127] 23.000000
+U[257] 19.000000
+U[338] 12.000000
+U[339] 10.000000
+U[418] 2.000000
+U[419] 3.000000
+U[420] 1.000000
+U[425] 9.000000
+U[429] 4.000000
+U[430] 20.000000
+U[432] 16.000000
+U[434] 5.000000
+U[435] 6.000000
+U[436] 17.000000
+U[440] 14.000000
+U[442] 13.000000
+U[445] 21.000000
+U[474] 22.000000
+U[682] 11.000000
+
+Optimal TSP Tour for the Cluster is: 0 -> 471 -> 420 -> 418 -> 419 -> 429 -> 434 -> 435 -> 93 -> 99 -> 425 -> 339 -> 682 -> 338 -> 442 -> 440 -> 101 -> 432 -> 436 -> 103 -> 257 -> 430 -> 445 -> 474 -> 127 -> 0
+
+Total Cost for the TSP Tour is:  1083.258431598816
