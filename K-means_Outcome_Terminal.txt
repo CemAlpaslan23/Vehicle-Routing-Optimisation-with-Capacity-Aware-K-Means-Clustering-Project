@@ -1,0 +1,120 @@
+Cluster Information with k-means Algorithm:
+
+Cluster 1: Vehicle Type: Truck, Number of Points: 22, Total Demand: 6741.949
+Customers in Cluster: [  0  93  99 101 103 257 338 339 418 419 420 424 425 429 432 434 435 436
+ 440 442 445 471 682   0]
+
+Cluster 2: Vehicle Type: Truck, Number of Points: 27, Total Demand: 6621.8060000000005
+Customers in Cluster: [  0  92 112 169 171 184 185 189 199 200 206 208 231 242 246 247 248 249
+ 250 251 252 254 255 651 652 653 655 680   0]
+
+Cluster 3: Vehicle Type: Van, Number of Points: 31, Total Demand: 2380.3700000000003
+Customers in Cluster: [  0  31  95 105 172 174 176 179 186 188 193 198 205 214 243 253 260 262
+ 264 450 451 452 678 762 763 824 474 476 483  85 381 681   0]
+
+Cluster 4: Vehicle Type: Van, Number of Points: 35, Total Demand: 1317.7940000000003
+Customers in Cluster: [  0  47  49  50  52  55  56  57  62  63  65  70  71  72  73  75  77  79
+  81  83  84 210 317 353 389 391 392 393 404 405 406 407 411 412 497 662
+   0]
+
+Cluster 5: Vehicle Type: Van, Number of Points: 27, Total Demand: 2326.017
+Customers in Cluster: [  0   1   2   3   4   6  12  13 119 120 125 259 261 267 268 270 271 272
+ 273 274 275 276 277 278 279 280 281 282   0]
+
+Cluster 6: Vehicle Type: Van, Number of Points: 31, Total Demand: 2486.266
+Customers in Cluster: [  0 135 141 148 293 548 552 553 557 558 559 560 561 562 566 612 613 621
+ 624 627 629 630 635 636 640 642 643 644 645 646 647 654   0]
+
+Cluster 7: Vehicle Type: Van, Number of Points: 35, Total Demand: 1203.82
+Customers in Cluster: [ 0 15 16 17 18 19 20 22 23 24 25 26 27 28 29 41 42 43 44 45 46 48 51 53
+ 54 58 59 61 64 66 67 74 76 78 80 82  0]
+
+Cluster 8: Vehicle Type: Van, Number of Points: 33, Total Demand: 1982.5809999999997
+Customers in Cluster: [  0  86 341 342 343 344 347 348 349 351 352 355 356 358 361 365 366 367
+ 372 374 415 416 650 656 705 764 768 769 772 773 283 284 324 508   0]
+
+Cluster 9: Vehicle Type: Van, Number of Points: 34, Total Demand: 2441.842
+Customers in Cluster: [  0  21  34  35  36  37  38  40  60  87 340 345 346 350 357 359 360 363
+ 364 376 377 378 379 380 567 568 659 704 755 756 757 767 771 774 775   0]
+
+Cluster 10: Vehicle Type: Van, Number of Points: 35, Total Demand: 2240.786
+Customers in Cluster: [  0 129 142 149 151 157 158 162 164 545 546 564 676 776 778 779 781 782
+ 784 785 786 787 790 791 794 795 796 799 802 804 805 806 810 819 820 821
+   0]
+
+Cluster 11: Vehicle Type: Van, Number of Points: 25, Total Demand: 2495.174
+Customers in Cluster: [  0  30  32  39 362 422 550 556 563 565 631 637 638 639 648 752 753 754
+ 758 759 760 761 770 837 838 840   0]
+
+Cluster 12: Vehicle Type: Van, Number of Points: 33, Total Demand: 1998.6970000000001
+Customers in Cluster: [  0 298 371 382 383 384 385 386 388 390 394 395 396 397 398 399 400 402
+ 403 408 409 410 413 414 576 577 578 579 660 663 664 665 666 670   0]
+
+Cluster 13: Vehicle Type: Van, Number of Points: 31, Total Demand: 1714.0640000000003
+Customers in Cluster: [  0  11 133 165 549 555 777 780 783 788 789 792 793 797 798 800 801 803
+ 807 808 809 811 812 814 815 816 817 818 822 823 825 826   0]
+
+Cluster 14: Vehicle Type: Van, Number of Points: 29, Total Demand: 1624.571
+Customers in Cluster: [  0   8   9  14 156 427 509 510 512 513 514 515 516 517 518 519 520 521
+ 523 526 527 528 529 531 532 533 534 538 543 544   0]
+
+Cluster 15: Vehicle Type: Van, Number of Points: 35, Total Demand: 1617.3729999999998
+Customers in Cluster: [  0 121 126 269 318 319 320 321 322 327 328 331 333 334 335 336 337 722
+ 726 728 731 732 733 734 735 736 737 738 744 745 746 747 748 749 750 751
+   0]
+
+Cluster 16: Vehicle Type: Van, Number of Points: 35, Total Demand: 1538.6399999999999
+Customers in Cluster: [  0 144 150 154 175 177 181 183 187 201 202 204 421 453 494 504 522 547
+ 551 554 611 615 616 618 619 620 622 623 626 628 632 633 634 641 649 675
+   0]
+
+Cluster 17: Vehicle Type: Van, Number of Points: 34, Total Demand: 2146.018
+Customers in Cluster: [  0   5   7  10 118 122 128 130 287 288 426 507 511 524 525 530 535 536
+ 537 539 540 541 542 813  33 297 315 661 667 668 669 671 672 673 720   0]
+
+Cluster 18: Vehicle Type: Van, Number of Points: 35, Total Demand: 998.4140000000001
+Customers in Cluster: [  0  90 212 215 216 217 219 220 222 224 226 227 228 229 230 232 236 237
+ 238 239 241 244 245 266 465 466 594 688 719 827 830 831 832 834 835 836
+   0]
+
+Cluster 19: Vehicle Type: Van, Number of Points: 35, Total Demand: 1208.8390000000002
+Customers in Cluster: [  0  88  89  91  94  96  97  98 100 102 104 106 107 109 110 111 113 116
+ 127 166 221 225 233 292 329 330 430 433 437 438 439 441 443 444 446 470
+   0]
+
+Cluster 20: Vehicle Type: Van, Number of Points: 30, Total Demand: 970.3220000000001
+Customers in Cluster: [  0 117 211 218 223 240 302 460 461 462 463 467 689 690 697 703 706 707
+ 708 709 710 711 713 714 716 717 718 828 829 833 839   0]
+
+Cluster 21: Vehicle Type: Van, Number of Points: 35, Total Demand: 2464.7050000000004
+Customers in Cluster: [  0 234 235 580 581 582 583 584 585 586 587 588 589 590 591 592 593 595
+ 596 598 599 600 601 602 603 604 605 606 607 608 609 610 291 311 683 684
+   0]
+
+Cluster 22: Vehicle Type: Van, Number of Points: 34, Total Demand: 1241.362
+Customers in Cluster: [  0 108 123 285 290 423 431 472 477 478 479 481 482 484 485 486 487 489
+ 493 500 501 506 143 286 428 468 473 491 492 496 498 499 502 503 505   0]
+
+Cluster 23: Vehicle Type: Van, Number of Points: 27, Total Demand: 626.9710000000001
+Customers in Cluster: [  0 167 168 170 173 178 180 182 190 191 192 194 195 196 197 203 207 213
+ 256 258 263 354 368 401 454 455 456 488   0]
+
+Cluster 24: Vehicle Type: Van, Number of Points: 27, Total Demand: 2456.42
+Customers in Cluster: [  0 124 131 132 134 136 137 138 139 140 145 146 147 152 153 155 159 160
+ 161 163 475 480 490 495 614 617 625 677   0]
+
+Cluster 25: Vehicle Type: Van, Number of Points: 35, Total Demand: 966.037
+Customers in Cluster: [  0 209 303 304 310 447 448 449 457 458 459 464 685 686 687 691 692 694
+ 695 696 698 699 700 701 702 712 715 114 115 265 307 323 325 326 332 469
+   0]
+
+Cluster 26: Vehicle Type: Van, Number of Points: 14, Total Demand: 2350.344
+Customers in Cluster: [  0 679 597 721 723 724 725 727 729 730 739 740 741 742 743   0]
+
+Cluster 27: Vehicle Type: Van, Number of Points: 18, Total Demand: 1310.846
+Customers in Cluster: [  0  69 289 294 295 296 299 300 301 305 306 308 309 312 313 314 316 387
+ 674   0]
+
+Cluster 28: Vehicle Type: Van, Number of Points: 18, Total Demand: 974.5079999999999
+Customers in Cluster: [  0  68 369 370 373 375 417 569 570 571 572 573 574 575 657 658 693 765
+ 766   0]
